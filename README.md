@@ -1,3 +1,3 @@
 # Deep_Learning
 
-This Repeository is only a demomstration of deep learning Algorithm using a Real-Time Dataset
+This Repository is only a demonstration of deep learning Algorithm using a Real-Time Dataset
